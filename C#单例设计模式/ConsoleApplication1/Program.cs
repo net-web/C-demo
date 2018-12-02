@@ -11,6 +11,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            //gittest
             Console.WriteLine("Begin");
             mySingle.Instance.age = 500;
             Console.WriteLine(mySingle.Instance.age);
